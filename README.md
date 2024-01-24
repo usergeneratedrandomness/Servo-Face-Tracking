@@ -15,6 +15,7 @@
   2. cv2
   3. pyfirmata
   4. numpy
+  5. mediapipe
 
 ## Additional Information
 
